@@ -1,12 +1,5 @@
-Novamart Sales Dashboard – Profit-Driven Product & Customer Analysis
-Author: Naomi Omaka
-Tool Used: Microsoft Excel
-Project Type: Exploratory Data Visualization
-Focus: Revenue Growth & Efficiency Optimization
-Dashboard Format: Interactive Excel workbook
-Preview:
-
 - Project Summary
+
 Novamart has been in business for over four years, but like many stores with a wide product mix, it lacked clarity on which products and customers were truly driving profit. This interactive dashboard was built to uncover what’s working, what’s not, and where the business can grow smarter—not just bigger.
 
 Using Excel, I explored 4 years of sales data to spot profit gaps, unproductive products, and high-value customer groups. The goal was simple: Turn data into decisions that increase revenue and reduce waste.
